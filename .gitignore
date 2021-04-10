@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+log*.txt
+*.db
+/src/main/resources/properties/gateway-service-local.properties
+/dependency-reduced-pom.xml
+trust
+data/
